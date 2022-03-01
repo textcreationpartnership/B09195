@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britains ioy, and good news for the Netherlands. By an honourable peace concluded betwixt England and Holland, upon the 9th of February which was proclaimed Holland upon the 24th day with all imaginable joy, and in London upon the 18th day of the same month, the Lord Mayor and Aldermen being present, with the heralds at arms in their formalities with five of the Kings maces, besides my Lord Mayor and many thousands of people thronging to express their joy for so great ... true subjects shall reap thereby.  Tune of, Digby's farewel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09195</idno>
+            <idno type="STC">Wing G1667AA</idno>
+            <idno type="STC">ESTC R177589</idno>
+            <idno type="EEBO-CITATION">64551295</idno>
+            <idno type="OCLC">ocm 64551295</idno>
+            <idno type="VID">184593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184593)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britains ioy, and good news for the Netherlands. By an honourable peace concluded betwixt England and Holland, upon the 9th of February which was proclaimed Holland upon the 24th day with all imaginable joy, and in London upon the 18th day of the same month, the Lord Mayor and Aldermen being present, with the heralds at arms in their formalities with five of the Kings maces, besides my Lord Mayor and many thousands of people thronging to express their joy for so great ... true subjects shall reap thereby.  Tune of, Digby's farewel.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere and J. Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1663 and 1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside has faded print and is cropped with some loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184593:1"/>
+            <pb facs="tcp:184593:2"/>
+            <head>Great Bittains Ioy, AND Good News for the NETHERLANDS.</head>
+            <head type="sub">By an Honourable <hi>Peace</hi> Concluded betwixt <hi>England</hi> and <hi>Holland,</hi> upon the 9<hi rend="sup">th.</hi> of <hi>February,</hi> which was proclaimed in <hi>Holland</hi> upon the 24<hi rend="sup">th.</hi> day with all imaginable Joy, and in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> upon the 28<hi rend="sup">th.</hi> day of the ſame Month, the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Mayor and Aldermen being preſent, with the Heraulds at arms in their formalities, with five of the Kings Maces, beſides my Lord Mayor's: and many thouſands of people thronging to expreſs their joy for ſo great <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as all true Subj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts ſhall reap thereby.</head>
+            <opener>Tune of, <hi>Digby</hi>'s Farewel.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme all Loyal Subjects I pray you draw neer,</l>
+               <l>For here is glad tydings your hearts for to cheer,</l>
+               <l>Now <hi>England</hi> and <hi>Holland</hi> doth ſhake hands again,</l>
+               <l>No more we ſhall thump it upon the ſalt Main,</l>
+               <l>The Pike, and the Muſquet, the Trumpet, and Drum,</l>
+               <l>Shall all be laid by, now the buſineſs is done;</l>
+               <l>
+                  <hi>Then let no more Wars in our Nation be nam'd,</hi>
+               </l>
+               <l>
+                  <hi>For now to our comfort the Peace is Proclaim'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The laſt <hi>February</hi> the twenty fourth day,</l>
+               <l>In <hi>Holland</hi> the Peace was Proclaim'd, and they ſay,</l>
+               <l>Such loud acclamations of joy there was ſhown,</l>
+               <l>The like in that Country before ne'r was known,</l>
+               <l>From th' higheſt to th' loweſt their joys did abound,</l>
+               <l>Their ſorrows in Brandy moſt freely they drown'd:</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The twenty eight day, here in <hi>London</hi> likewiſe,</l>
+               <l>We had it proclaimed with ſhouts and with crys,</l>
+               <l>The Show it was ſplendid as e're it could be,</l>
+               <l>And all things performed with great gallantry,</l>
+               <l>The Streets and Belconies ſo thronghed they were,</l>
+               <l>That happy was he could come nigh for to hear;</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The reſt of the day was concluded with joy,</l>
+               <l>The Bells in all Pariſhes rung merrily,</l>
+               <l>The Bonefire fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes mounted up to the skies,</l>
+               <l>And plenty of liquor was every man's prize,</l>
+               <l>The Rich and the poor did all play their parts,</l>
+               <l>For all were concerned, there was no ſad hearts;</l>
+               <l>
+                  <hi>Then let no more wars in our Nation be nam'd</hi>
+               </l>
+               <l>
+                  <hi>For now to our comfort a <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:184593:2"/>
+               <l>OVr Merchantmen now they may freely ſpread ſail</l>
+               <l>And Trade to the <hi>Indies</hi> with a merry gale,</l>
+               <l>The Pickaroon Capers no more they need fear,</l>
+               <l>The Seas ſhall be quiet, and all ſhall be clear,</l>
+               <l>With coſtly rich lading they ſhall return back,</l>
+               <l>And bring our young Ladies fine toys which they lack,</l>
+               <l>
+                  <hi>Then let no more Wars in our Nation be nam'd,</hi>
+               </l>
+               <l>
+                  <hi>For now to our comfort the Peace is proclaim'd.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Shopkeepers they ſhall have Trading good ſtore,</l>
+               <l>And money more plentiful be then before,</l>
+               <l>Their Wares they ſhall buy at an eaſier rate,</l>
+               <l>And have better times for to get an eſtate;</l>
+               <l>Likewiſe the poor Tradſmen no more ſhall be ſad,</l>
+               <l>For he ſhall have work enough to make him glad:</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Country-man no more ſhall complain,</l>
+               <l>For he ſhall have money come in for his Grain,</l>
+               <l>Their Rents ſhall be eaſie, and wealth it ſhall flow,</l>
+               <l>And they be encouraged to plow and to ſow,</l>
+               <l>Nay, that which is more, all their joys to encreaſe,</l>
+               <l>Before it be long their great Taxes will ceaſe:</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Poor men ſhall no more be afraid of a Preſs,</l>
+               <l>Nor forc'd to leave Children and Wife in diſtreſs,</l>
+               <l>They need not hereafter in holes for to lurk,</l>
+               <l>But boldly and freely may follow their work,</l>
+               <l>The Seamen and Souldiers their limbs ſhall not loſe:</l>
+               <l>But briskly and merrily drink of their howſe:</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All neigbouring Nations ſhall likewiſe rejoyce,</l>
+               <l>with whom we have comerce for wares that are choice.</l>
+               <l>We ſhall not repine now for want of a Trade,</l>
+               <l>Which late in this Nation ſo much was decay'd,</l>
+               <l>For plenty and peace they do always agree,</l>
+               <l>And produce good times, and days of Iubile:</l>
+               <l>
+                  <hi>Then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then welcome ſweet Peace to our <hi>Albion</hi> ſhore,</l>
+               <l>I hope dreadful Wars ſhall mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt vs no more,</l>
+               <l>The fruits of our labour with joy we ſhall reap,</l>
+               <l>And that which was dear we ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll now have it chear;</l>
+               <l>Then let us praiſe God that ſuch bleſſings doth bring,</l>
+               <l>And always prove loyal and true to our King;</l>
+               <l>
+                  <hi>And let no more Wars in our Nation be nam'd,</hi>
+               </l>
+               <l>
+                  <hi>For now to our comfort the Peace is proclaim'd.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, <hi>and J.</hi> Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
